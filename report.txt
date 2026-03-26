@@ -1,0 +1,10 @@
+Government Security Audit Report
+========================================
+
+URL: https://github.com
+Risk: MEDIUM
+Score: 55
+
+Findings:
+- Open ports: [22, 3306, 5432]
+- SQL Injection risk detected
