@@ -22,12 +22,12 @@ GovScan is an automated system that scans, analyzes, and monitors website securi
 - HTML/CSS/JS
 
 ## 🖥️ Demo
-👉 Live App: (add your deployed link here)
+👉 Live App: https://govscan-ai-security.onrender.com
 
 ## 📸 Screenshots
-![Dashboard](screenshots/dashboard.png)
-![Graph](screenshots/graph.png)
-![Alert](screenshots/alert.png)
+![Dashboard](screenshots/scan1.png)
+![Graph](screenshots/sc2.png)
+![Alert](screenshots/s3.png)
 
 ## 🚀 How to Run
 
